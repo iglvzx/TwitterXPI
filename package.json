@@ -1,0 +1,16 @@
+{
+  "title": "TwitterXPI",
+  "name": "twitterxpi",
+  "version": "0.0.1",
+  "description": "Firefox addon for Twitter that provides small changes/enhancements.",
+  "main": "index.js",
+  "author": "Izzy Galvez <i@igalvez.net>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv3",
+  "keywords": [
+    "jetpack"
+  ]
+}
